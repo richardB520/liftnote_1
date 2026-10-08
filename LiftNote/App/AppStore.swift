@@ -33,7 +33,8 @@ final class AppStore: ObservableObject {
         lastError = loadError
     }
 
-    static var defaultFileURL: URL {
+    /// 默认参数在非主线程上下文里求值，所以这里标 nonisolated（只用到 FileManager，线程安全）
+    nonisolated static var defaultFileURL: URL {
         let fm = FileManager.default
         let dir = (try? fm.url(for: .applicationSupportDirectory, in: .userDomainMask, appropriateFor: nil, create: true))
             ?? fm.temporaryDirectory
