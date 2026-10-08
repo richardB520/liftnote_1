@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSSupportsLiveActivities</key>
+	<true/>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>语音记组时需要用麦克风听你说的器械、重量和次数。</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>把你说的训练内容转成文字，整理成组记录。优先在手机上识别。</string>
+</dict>
+</plist>
