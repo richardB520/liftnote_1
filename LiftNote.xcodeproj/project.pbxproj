@@ -1,0 +1,903 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		01BC2A4ABA467B995AA90722 = {
+			isa = PBXBuildFile;
+			fileRef = 04CA9AD0308BD51637DE9890;
+		};
+		03A648CA9A1D39020CC1EE2C = {
+			isa = PBXBuildFile;
+			fileRef = 1827126956A7A44F09D19478;
+		};
+		08488F45B029310B77CEBB6C = {
+			isa = PBXBuildFile;
+			fileRef = EBEA5C56E4D2E637FB9ABDA6;
+		};
+		1371798DB633E8B8403970D6 = {
+			isa = PBXBuildFile;
+			fileRef = 0F3E990EF2BAC6408CDE3BD8;
+		};
+		17799775BCEED89F177A8C86 = {
+			isa = PBXBuildFile;
+			fileRef = CA92E64AE925EF9A0FE9E11D;
+		};
+		211E240843ECA2CE875E6874 = {
+			isa = PBXBuildFile;
+			fileRef = 2996020BB0569FFF111C4824;
+		};
+		22E1B2863C9A68D95A6C9A28 = {
+			isa = PBXBuildFile;
+			fileRef = 663923E6A348F7D536DA015D;
+		};
+		31C05874509BBBB3906F3FF5 = {
+			isa = PBXBuildFile;
+			fileRef = 2B0D15D0E5C43D0D511AE528;
+		};
+		45C7BF131DE5EBD9462C199C = {
+			isa = PBXBuildFile;
+			fileRef = F9C1CB04420CA704DD9BB50F;
+		};
+		46F1FFB6DA6D65DE6FD6E6D5 = {
+			isa = PBXBuildFile;
+			fileRef = FB059CC64C21E34432EC638A;
+		};
+		5B02F5C0016C309B25CCEB2F = {
+			isa = PBXBuildFile;
+			fileRef = 90DFC760C0B8A1E38CCF6674;
+		};
+		65866F8A4A22B43263D3C363 = {
+			isa = PBXBuildFile;
+			fileRef = A481BE3A1A7C70E14B3E79D2;
+		};
+		660FCD0A9A0AB3A92C8A8BE9 = {
+			isa = PBXBuildFile;
+			fileRef = 0FD7488223EA0E20BD335592;
+			settings = {
+				ATTRIBUTES = (
+					RemoveHeadersOnCopy,
+				);
+			};
+		};
+		78811C92B006241B7D2B0208 = {
+			isa = PBXBuildFile;
+			fileRef = 95C2AE7EA389C7FCB5C87CD8;
+		};
+		79633F0A0692FAFDE68AA685 = {
+			isa = PBXBuildFile;
+			fileRef = 5BA57029DAB5436538F02C84;
+		};
+		7DAA924ECBA7DC059C4A5CDB = {
+			isa = PBXBuildFile;
+			fileRef = 8A0D831791C0D6075CEF27D9;
+		};
+		83A1EEB4E16C6C0DD19DC3BD = {
+			isa = PBXBuildFile;
+			fileRef = 2A97E32E0B1FB727019642F7;
+		};
+		95877DE958ACF0670CD69545 = {
+			isa = PBXBuildFile;
+			fileRef = F1FBD1929D47A00D3B403FAD;
+		};
+		99188E9DD71706E97291750B = {
+			isa = PBXBuildFile;
+			fileRef = 276F3C33A07A2414A43CC84F;
+		};
+		A8387356100AD7A5767C3635 = {
+			isa = PBXBuildFile;
+			fileRef = 5D1D506531EA24D613A77620;
+		};
+		BC96E79F9070BDAA4CBA470E = {
+			isa = PBXBuildFile;
+			fileRef = ADCEB3C2755C62A681CF0521;
+		};
+		CF7BF3328FBCC0D210B5884F = {
+			isa = PBXBuildFile;
+			fileRef = 1D8B752108A49EE9537D4054;
+		};
+		EA624690EF71A9F6A91D81BE = {
+			isa = PBXBuildFile;
+			fileRef = 04CA9AD0308BD51637DE9890;
+		};
+		EAB4CB5E93AEDFDF8E2137E0 = {
+			isa = PBXBuildFile;
+			fileRef = 515396BFECE271E65D957803;
+		};
+		F546E9A4BDA996FA8893C650 = {
+			isa = PBXBuildFile;
+			fileRef = 88EBC8D13FA8BD0EDAD435D2;
+		};
+		F71473F5BE50948DE8B412E5 = {
+			isa = PBXBuildFile;
+			fileRef = 837B205D7CA5135E6884EF34;
+		};
+		F83951C1AAB6969851BC5863 = {
+			isa = PBXBuildFile;
+			fileRef = 7BE1F9BECB547BDBDF1DED03;
+		};
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7694638B8886B2C48FEA1835 = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46F86FAA6BBF9AC94A7E4595;
+			proxyType = 1;
+			remoteGlobalIDString = D627CACEBFAAA465612B83CD;
+			remoteInfo = LiftNoteWidgetsExtension;
+		};
+		A61BC1D5588417D8AC035570 = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46F86FAA6BBF9AC94A7E4595;
+			proxyType = 1;
+			remoteGlobalIDString = F01C2E624E08A72BC055B46F;
+			remoteInfo = LiftNote;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		F1F1F0BB586371071605393E = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				660FCD0A9A0AB3A92C8A8BE9,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			name = "Embed Foundation Extensions";
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		04CA9AD0308BD51637DE9890 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = RestActivityAttributes.swift;
+			sourceTree = "<group>";
+		};
+		0F3E990EF2BAC6408CDE3BD8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = TranscriptAccumulator.swift;
+			sourceTree = "<group>";
+		};
+		0FD7488223EA0E20BD335592 = {
+			isa = PBXFileReference;
+			explicitFileType = "wrapper.app-extension";
+			includeInIndex = 0;
+			path = LiftNoteWidgetsExtension.appex;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		1827126956A7A44F09D19478 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = VoiceParserTests.swift;
+			sourceTree = "<group>";
+		};
+		1D8B752108A49EE9537D4054 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = WorkoutLogic.swift;
+			sourceTree = "<group>";
+		};
+		24FF5DD875D4AC2E94933D4B = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			path = Info.plist;
+			sourceTree = "<group>";
+		};
+		276F3C33A07A2414A43CC84F = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = WorkoutLogicTests.swift;
+			sourceTree = "<group>";
+		};
+		2996020BB0569FFF111C4824 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = VoiceLogSheet.swift;
+			sourceTree = "<group>";
+		};
+		2A97E32E0B1FB727019642F7 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = RestAlerts.swift;
+			sourceTree = "<group>";
+		};
+		2B0D15D0E5C43D0D511AE528 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = WeeklyVolume.swift;
+			sourceTree = "<group>";
+		};
+		515396BFECE271E65D957803 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = Components.swift;
+			sourceTree = "<group>";
+		};
+		5BA57029DAB5436538F02C84 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = ExercisePickerView.swift;
+			sourceTree = "<group>";
+		};
+		5D1D506531EA24D613A77620 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = Models.swift;
+			sourceTree = "<group>";
+		};
+		663923E6A348F7D536DA015D = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = SpeechRecognizer.swift;
+			sourceTree = "<group>";
+		};
+		7BE1F9BECB547BDBDF1DED03 = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder.assetcatalog;
+			path = Assets.xcassets;
+			sourceTree = "<group>";
+		};
+		837B205D7CA5135E6884EF34 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = VoiceApply.swift;
+			sourceTree = "<group>";
+		};
+		88EBC8D13FA8BD0EDAD435D2 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = SettingsView.swift;
+			sourceTree = "<group>";
+		};
+		8A0D831791C0D6075CEF27D9 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = Backup.swift;
+			sourceTree = "<group>";
+		};
+		90DFC760C0B8A1E38CCF6674 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = AppStore.swift;
+			sourceTree = "<group>";
+		};
+		95C2AE7EA389C7FCB5C87CD8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = ExerciseCatalog.swift;
+			sourceTree = "<group>";
+		};
+		996AD237BC284D463E664FFE = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			path = LiftNote.app;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A481BE3A1A7C70E14B3E79D2 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = RestTimerLiveActivity.swift;
+			sourceTree = "<group>";
+		};
+		ADCEB3C2755C62A681CF0521 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = HistoryView.swift;
+			sourceTree = "<group>";
+		};
+		BD5FEB36355BB38F98691943 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			path = LiftNoteTests.xctest;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		CA92E64AE925EF9A0FE9E11D = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = VoiceParser.swift;
+			sourceTree = "<group>";
+		};
+		D4965D4ECE0F2399C1115545 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			path = Info.plist;
+			sourceTree = "<group>";
+		};
+		EBEA5C56E4D2E637FB9ABDA6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = WeeklyView.swift;
+			sourceTree = "<group>";
+		};
+		F1FBD1929D47A00D3B403FAD = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = LiftNoteApp.swift;
+			sourceTree = "<group>";
+		};
+		F9C1CB04420CA704DD9BB50F = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = ActiveWorkoutView.swift;
+			sourceTree = "<group>";
+		};
+		FB059CC64C21E34432EC638A = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = HomeView.swift;
+			sourceTree = "<group>";
+		};
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6994B4D682641BE980A17B4B = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		80090F5789FBEF097720FB35 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CB0AFE9DAEF3221CF9F454C8 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		113236722DEE1DC96F378B9D = {
+			isa = PBXGroup;
+			children = (
+				996AD237BC284D463E664FFE,
+				0FD7488223EA0E20BD335592,
+				BD5FEB36355BB38F98691943,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2C8B7C3A8623153AB8F7EACD = {
+			isa = PBXGroup;
+			children = (
+				F9C1CB04420CA704DD9BB50F,
+				515396BFECE271E65D957803,
+				5BA57029DAB5436538F02C84,
+				ADCEB3C2755C62A681CF0521,
+				FB059CC64C21E34432EC638A,
+				88EBC8D13FA8BD0EDAD435D2,
+				2996020BB0569FFF111C4824,
+				EBEA5C56E4D2E637FB9ABDA6,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		316CDE12AD2782248C885241 = {
+			isa = PBXGroup;
+			children = (
+				90DFC760C0B8A1E38CCF6674,
+				F1FBD1929D47A00D3B403FAD,
+				2A97E32E0B1FB727019642F7,
+				663923E6A348F7D536DA015D,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		3FAE94A3F9B91AE4484CC071 = {
+			isa = PBXGroup;
+			children = (
+				8A0D831791C0D6075CEF27D9,
+				95C2AE7EA389C7FCB5C87CD8,
+				5D1D506531EA24D613A77620,
+				0F3E990EF2BAC6408CDE3BD8,
+				837B205D7CA5135E6884EF34,
+				CA92E64AE925EF9A0FE9E11D,
+				2B0D15D0E5C43D0D511AE528,
+				1D8B752108A49EE9537D4054,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		5368D849362F4528DFA115E3 = {
+			isa = PBXGroup;
+			children = (
+				3FAE94A3F9B91AE4484CC071,
+				316CDE12AD2782248C885241,
+				2C8B7C3A8623153AB8F7EACD,
+				B6ECCB481C4B3B9866B166CD,
+				7BE1F9BECB547BDBDF1DED03,
+				D4965D4ECE0F2399C1115545,
+			);
+			path = LiftNote;
+			sourceTree = "<group>";
+		};
+		71DC27D9F8E3B109C877BFC4 = {
+			isa = PBXGroup;
+			children = (
+				5368D849362F4528DFA115E3,
+				D9B2057BBEDFC66CED1E3337,
+				9369CC6DD81ACFBA558CEA1D,
+				113236722DEE1DC96F378B9D,
+			);
+			sourceTree = "<group>";
+		};
+		9369CC6DD81ACFBA558CEA1D = {
+			isa = PBXGroup;
+			children = (
+				1827126956A7A44F09D19478,
+				276F3C33A07A2414A43CC84F,
+			);
+			path = Tests/LiftNoteCoreTests;
+			sourceTree = "<group>";
+			name = LiftNoteTests;
+		};
+		B6ECCB481C4B3B9866B166CD = {
+			isa = PBXGroup;
+			children = (
+				04CA9AD0308BD51637DE9890,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		D9B2057BBEDFC66CED1E3337 = {
+			isa = PBXGroup;
+			children = (
+				A481BE3A1A7C70E14B3E79D2,
+				24FF5DD875D4AC2E94933D4B,
+			);
+			path = LiftNoteWidgets;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C706FA839F4C1F2316B35783 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F2B3EBA12D45501240AF7129;
+			buildPhases = (
+				69F7B770AD78F230D058E9CF,
+				80090F5789FBEF097720FB35,
+				8CBCF1705619B6473383F260,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				13C0F3EA56BEB811375B45D9,
+			);
+			name = LiftNoteTests;
+			productName = LiftNoteTests;
+			productReference = BD5FEB36355BB38F98691943;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D627CACEBFAAA465612B83CD = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A16DCA773FDC0D7CD6281918;
+			buildPhases = (
+				77C6927E504BAF387D42DF56,
+				6994B4D682641BE980A17B4B,
+				21C5ECB9D0C906878051A720,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LiftNoteWidgetsExtension;
+			productName = LiftNoteWidgetsExtension;
+			productReference = 0FD7488223EA0E20BD335592;
+			productType = "com.apple.product-type.app-extension";
+		};
+		F01C2E624E08A72BC055B46F = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A25A21380B352A4D587DB751;
+			buildPhases = (
+				C10E95ACD154D6294D8A4B61,
+				CB0AFE9DAEF3221CF9F454C8,
+				BCD17A7E02F383309CDC81F7,
+				F1F1F0BB586371071605393E,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AB4BD9E5DB498F4ABA5D0EB1,
+			);
+			name = LiftNote;
+			productName = LiftNote;
+			productReference = 996AD237BC284D463E664FFE;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		46F86FAA6BBF9AC94A7E4595 = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					F01C2E624E08A72BC055B46F = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					D627CACEBFAAA465612B83CD = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					C706FA839F4C1F2316B35783 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = F01C2E624E08A72BC055B46F;
+					};
+				};
+			};
+			buildConfigurationList = 946392D46B65BE2E368A0D3B;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = "zh-Hans";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				"zh-Hans",
+				en,
+				Base,
+			);
+			mainGroup = 71DC27D9F8E3B109C877BFC4;
+			productRefGroup = 113236722DEE1DC96F378B9D;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F01C2E624E08A72BC055B46F,
+				D627CACEBFAAA465612B83CD,
+				C706FA839F4C1F2316B35783,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		21C5ECB9D0C906878051A720 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8CBCF1705619B6473383F260 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BCD17A7E02F383309CDC81F7 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F83951C1AAB6969851BC5863,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		69F7B770AD78F230D058E9CF = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03A648CA9A1D39020CC1EE2C,
+				99188E9DD71706E97291750B,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77C6927E504BAF387D42DF56 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65866F8A4A22B43263D3C363,
+				EA624690EF71A9F6A91D81BE,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C10E95ACD154D6294D8A4B61 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7DAA924ECBA7DC059C4A5CDB,
+				78811C92B006241B7D2B0208,
+				A8387356100AD7A5767C3635,
+				1371798DB633E8B8403970D6,
+				F71473F5BE50948DE8B412E5,
+				17799775BCEED89F177A8C86,
+				31C05874509BBBB3906F3FF5,
+				CF7BF3328FBCC0D210B5884F,
+				5B02F5C0016C309B25CCEB2F,
+				95877DE958ACF0670CD69545,
+				83A1EEB4E16C6C0DD19DC3BD,
+				22E1B2863C9A68D95A6C9A28,
+				45C7BF131DE5EBD9462C199C,
+				EAB4CB5E93AEDFDF8E2137E0,
+				79633F0A0692FAFDE68AA685,
+				BC96E79F9070BDAA4CBA470E,
+				46F1FFB6DA6D65DE6FD6E6D5,
+				F546E9A4BDA996FA8893C650,
+				211E240843ECA2CE875E6874,
+				08488F45B029310B77CEBB6C,
+				01BC2A4ABA467B995AA90722,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		13C0F3EA56BEB811375B45D9 = {
+			isa = PBXTargetDependency;
+			target = F01C2E624E08A72BC055B46F;
+			targetProxy = A61BC1D5588417D8AC035570;
+		};
+		AB4BD9E5DB498F4ABA5D0EB1 = {
+			isa = PBXTargetDependency;
+			target = D627CACEBFAAA465612B83CD;
+			targetProxy = 7694638B8886B2C48FEA1835;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0CF8206AA0B385A93D33097D = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				LIFTNOTE_BUNDLE_ID = com.liftnote.journal;
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1128DC3924065E477F3AFD8E = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LiftNote/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "练记";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "$(LIFTNOTE_BUNDLE_ID)";
+			};
+			name = Release;
+		};
+		12E625D84A0E3D927191375D = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LiftNote/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "练记";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "$(LIFTNOTE_BUNDLE_ID)";
+			};
+			name = Debug;
+		};
+		218037AB54AB59F5BE8E874E = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				LIFTNOTE_BUNDLE_ID = com.liftnote.journal;
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		92850F87C1B8666055FE2770 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "$(LIFTNOTE_BUNDLE_ID).tests";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LiftNote.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/LiftNote";
+			};
+			name = Debug;
+		};
+		B8EB4CEE4F03C0282D3601BC = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LiftNoteWidgets/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "练记计时";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "$(LIFTNOTE_BUNDLE_ID).widgets";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		C71D832F7895BB7E39E9F8CC = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LiftNoteWidgets/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "练记计时";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "$(LIFTNOTE_BUNDLE_ID).widgets";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		D4B32137D1D122054F26F938 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "$(LIFTNOTE_BUNDLE_ID).tests";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LiftNote.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/LiftNote";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		946392D46B65BE2E368A0D3B = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				218037AB54AB59F5BE8E874E,
+				0CF8206AA0B385A93D33097D,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A16DCA773FDC0D7CD6281918 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C71D832F7895BB7E39E9F8CC,
+				B8EB4CEE4F03C0282D3601BC,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A25A21380B352A4D587DB751 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12E625D84A0E3D927191375D,
+				1128DC3924065E477F3AFD8E,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F2B3EBA12D45501240AF7129 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				92850F87C1B8666055FE2770,
+				D4B32137D1D122054F26F938,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+	};
+	rootObject = 46F86FAA6BBF9AC94A7E4595;
+}

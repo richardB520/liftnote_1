@@ -1,0 +1,30 @@
+name: Equipment request / 补充器械
+description: Add a machine or exercise to the built-in library
+labels: [equipment]
+body:
+  - type: input
+    id: brand
+    attributes:
+      label: Brand and series / 品牌和系列
+      placeholder: Hammer Strength Plate-Loaded
+    validations:
+      required: true
+  - type: input
+    id: movement
+    attributes:
+      label: Movement name / 动作名称
+      placeholder: Iso-Lateral Row / 单边划船
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Equipment kind / 器械类型
+      options: [Selectorized 插片, Plate-loaded 挂片, Cable 绳索, Barbell 杠铃, Dumbbell 哑铃, Smith 史密斯, Bodyweight 自重]
+    validations:
+      required: true
+  - type: input
+    id: muscles
+    attributes:
+      label: Muscles trained directly / 直接训练的部位
+      placeholder: back
