@@ -1,0 +1,20 @@
+name: Bug report / 问题反馈
+description: Something does not work as expected
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened? / 发生了什么
+      description: Steps to reproduce and what you expected instead. Screenshots welcome.
+    validations:
+      required: true
+  - type: input
+    id: ios
+    attributes:
+      label: iOS version and device / 系统版本和机型
+      placeholder: iOS 18.4, iPhone 16 Pro
+  - type: input
+    id: version
+    attributes:
+      label: App version or commit

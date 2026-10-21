@@ -1,0 +1,25 @@
+name: Voice parsing error / 语音识别错误
+description: A spoken sentence was turned into the wrong sets
+labels: [voice-parser]
+body:
+  - type: textarea
+    id: transcript
+    attributes:
+      label: Transcript / 识别出的原文
+      description: Copy the text shown in the voice sheet exactly.
+      placeholder: PRIME 上背划船 45公斤，第一组10次，40公斤第二组8次，都更好
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected sets / 应该是
+      placeholder: |
+        第1组 45kg × 10 ↑
+        第2组 40kg × 8 ↑
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What the app produced / 实际结果
